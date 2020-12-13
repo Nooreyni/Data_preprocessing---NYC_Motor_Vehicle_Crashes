@@ -124,8 +124,8 @@ As the cleaning phase, in the preprocessing also work were doing following steps
 ##### Normalization
 The Normalization is applied in integer type columns
 
- | #  | Column              | type |
- | -: | :------------------ | -------: |
+ | Column              | type |
+ | :------------------ | -------: |
 |number_of_persons_injured | int |
 |number_of_persons_killed | int |
 |number_of_pedestrians_injured | int |
